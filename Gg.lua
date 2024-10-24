@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://pastebin.com/raw/E2pdZTnU"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/FlairZx9/Script/refs/heads/main/source.lua"))()
 local Window = Library.CreateLib("GUI for Sandhurst Military Academy (By ExamV1)", "Sentinel")
 
 -- MAIN
